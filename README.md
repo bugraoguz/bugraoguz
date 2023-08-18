@@ -2,7 +2,7 @@
 
 I am new to coding world. Looking to improve myself .
 
-# *Student at Metu-Econ*
+# **Student at Metu-Econ**
 
 <!--
 **bugraoguz/bugraoguz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
