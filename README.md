@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am new here and coding world as well. Looking to improve myself.
+I am new to coding world. Looking to improve myself .
 
-###### *fddgf*
+# *Student at Metu-Econ*
 
 <!--
 **bugraoguz/bugraoguz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
